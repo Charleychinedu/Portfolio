@@ -38,7 +38,7 @@ export function HeroSection({ onContactClick }: HeroSectionProps) {
               <br />
               I'm <span className="text-destructive">Charles Eze</span>
               <br />
-              <span className="text-foreground">React.js Developer</span>
+              <span className="text-foreground">Frontend Developer</span>
             </motion.h1>
 
             <motion.div
